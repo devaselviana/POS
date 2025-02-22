@@ -1,6 +1,6 @@
 <html>
 <body>
- <h1>Hello, {{ $name }}</h1>
- <h1>ID {{ $id }}</h1>
+ <h1>Hello,  DevaSelviana </h1>
+ <h1>ID 5 </h1>
 </body>
 </html>
